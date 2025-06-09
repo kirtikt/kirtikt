@@ -25,3 +25,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtikt&show_icons=true&locale=en" alt="kirtikt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtikt&" alt="kirtikt" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kirtikt/kirtikt/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kirtikt/kirtikt/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/kirtikt/kirtikt/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
